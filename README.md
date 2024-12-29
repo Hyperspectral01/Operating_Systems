@@ -3,6 +3,14 @@
 
 Welcome to the **Operating Systems** repository! 🎉 This repository is designed to help you master concepts of **Bash Scripting** and **Multithreading** through practical examples and hands-on exercises. Dive in and level up your OS skills! 🚀  
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/67a9262c-6f44-4333-95cb-9fa4f6b7c3d0" alt="Conceptual View" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4f7fea8a-052c-4249-99b2-7cb5164097fe" alt="User-Mode-Vs-Kernel-Mode" />
+</p>
+
 ---
 
 ## 📂 **Repository Structure**  
