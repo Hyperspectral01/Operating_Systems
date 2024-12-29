@@ -122,7 +122,7 @@ Feel free to enhance this repository by:
 - **UNIX Commands Reference**: [Link](https://man7.org/linux/man-pages/)  
 - **PThreads Documentation**: [Link](https://man7.org/linux/man-pages/man7/pthreads.7.html)
 - **Gate Smashers Youtube Playlist**: [Link](https://www.youtube.com/watch?v=bkSWJJZNgf8&list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
-- **Process Scheduling Algorithms (Preemptive and Non-Premptive) Implementation from Sratch**: [Link](https://github.com/Hyperspectral01/Scheduling_Algorithms)
+- **Process Scheduling Algorithms (Preemptive and Non-Premptive) Implementation from Scratch**: [Link](https://github.com/Hyperspectral01/Scheduling_Algorithms)
 
 ---
 
